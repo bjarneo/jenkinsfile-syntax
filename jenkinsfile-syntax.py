@@ -2,7 +2,7 @@ import sublime
 import sublime_plugin
 
 
-class JenkinsfileSyntaxCommand(sublime_plugin.EventListener):
+class JenkinsfileSyntax(sublime_plugin.EventListener):
     def on_load(self, view):
         file = view.file_name().split('/')
 
