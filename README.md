@@ -6,6 +6,19 @@ Installation
 ------
 Must be cloned to the packages directory
 
+Linux:
+```bash 
+$ ~/.config/sublime-text-3/Packages/
+```
+OSX
+```bash 
+$ ~/Library/Application Support/Sublime Text 3/Packages
+```
+or
+```bash 
+$ ~/Library/Application Support/Sublime Text 3/Installed Packages
+```
+
 Support
 ------
 Linux and OSX.
